@@ -1,0 +1,12 @@
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/bin/Debug/netcoreapp3.1/KafkaPublisher.deps.json
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/bin/Debug/netcoreapp3.1/KafkaPublisher.runtimeconfig.json
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/bin/Debug/netcoreapp3.1/KafkaPublisher.runtimeconfig.dev.json
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/bin/Debug/netcoreapp3.1/KafkaPublisher.dll
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/bin/Debug/netcoreapp3.1/KafkaPublisher.pdb
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/obj/Debug/netcoreapp3.1/KafkaPublisher.csprojAssemblyReference.cache
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/obj/Debug/netcoreapp3.1/KafkaPublisher.AssemblyInfoInputs.cache
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/obj/Debug/netcoreapp3.1/KafkaPublisher.AssemblyInfo.cs
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/obj/Debug/netcoreapp3.1/KafkaPublisher.csproj.CoreCompileInputs.cache
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/obj/Debug/netcoreapp3.1/KafkaPublisher.dll
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/obj/Debug/netcoreapp3.1/KafkaPublisher.pdb
+/Users/almaruf/Projects/Tutorial/KAFKA/KafkaPublisher/obj/Debug/netcoreapp3.1/KafkaPublisher.genruntimeconfig.cache
